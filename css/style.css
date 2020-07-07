@@ -22,7 +22,7 @@ div.scroll {
   padding: 20px;
 }
 #land .jumbotron{
-    background:url(../north.jpg);
+    background:url(../img/north.jpg);
     background-position: center center !important;
     background-repeat: no-repeat;
     background-size: cover !important;
